@@ -1,55 +1,73 @@
 <h1>
     <a href="https://www.dio.me/">
      <img align="center" width="40px" src="https://hermes.digitalinnovation.one/assets/diome/logo-minimized.png"></a>
-    <span> Utilitários para o Profile README</span>
+    <span> Eduardo Requia </span>
 </h1>
 
 
-## Índice
+## Linguagens de Programação
 <table>
   <thead>
     <tr align="left">
-      <th>Nº</th>
-      <th>Utilitário</th>
-      <th>Exemplos</th>
-      <th>Fonte</th>
+      <th>Badge</th>
+      <th>Markdown</th>
     </tr>
   </thead>
   <tbody align="left">
     <tr>
-      <td>01</td>
-      <td>Badges</td>
-      <td align="center">
-        <a href="https://github.com/elidianaandrade/dio-lab-open-source/blob/main/utils/badges/badges.md">
-           <img align="center" alt="Material de Apoio" src="https://img.shields.io/badge/Ver%20Exemplos-30A3DC?style=for-the-badge">
-        </a>
+      <td>
+        <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript">
       </td>
       <td>
-        <a href="https://github.com/badges/shields">Shields.io</a>
+        <code>![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)</code>
       </td>
     </tr>
     <tr>
-      <td>02</td>
-      <td>Cards GitHub Stats</td>
-      <td align="center">
-        <a href="https://github.com/elidianaandrade/dio-lab-open-source/blob/main/utils/cards/github-stats.md">
-           <img align="center" alt="Material de Apoio" src="https://img.shields.io/badge/Ver%20Exemplos-E94D5F?style=for-the-badge">
-        </a>
+      <td>
+        <img align="center" alt="TypeScript" src="https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript">
       </td>
       <td>
-        <a href="https://github.com/anuraghazra/github-readme-stats">GitHub Stats by @anuraghazra</a>
+        <code>![TypeScript](https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript)</code>
       </td>
     </tr>
     <tr>
-      <td>03</td>
-      <td>Cards GitHub Streak Stats</td>
-      <td align="center">
-        <a href="https://github.com/elidianaandrade/dio-lab-open-source/blob/main/utils/cards/github-streak-stats.md">
-           <img align="center" alt="Material de Apoio" src="https://img.shields.io/badge/Ver%20Exemplos-30A3DC?style=for-the-badge">
-        </a>
+      <td>
+        <img align="center" alt="Java" src="https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java">
       </td>
       <td>
-        <a href="https://github.com/denvercoder1/github-readme-streak-stats">GitHub Streak Stats by @DenverCoder1</a>
+        <code>![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java)</code>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <img align="center" alt="Python" src="https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python">
+      </td>
+      <td>
+        <code>![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)</code>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <img align="center" alt="C" src="https://img.shields.io/badge/C-000?style=for-the-badge&logo=c">
+      </td>
+      <td>
+        <code>![C](https://img.shields.io/badge/C-000?style=for-the-badge&logo=c)</code>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <img align="center" alt="C++" src="https://img.shields.io/badge/C%2B%2B-000?style=for-the-badge&logo=c%2B%2B&logoColor=00599C">
+      </td>
+      <td>
+        <code>![C++](https://img.shields.io/badge/C%2B%2B-000?style=for-the-badge&logo=c%2B%2B&logoColor=00599C)</code>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <img align="center" alt="C#" src="https://img.shields.io/badge/C%23-000?style=for-the-badge&logo=c-sharp&logoColor=823085">
+      </td>
+      <td>
+        <code>![C#](https://img.shields.io/badge/C%23-000?style=for-the-badge&logo=c-sharp&logoColor=823085)</code>
       </td>
     </tr>
   </tbody>
